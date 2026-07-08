@@ -8,6 +8,14 @@ This project uses Machine Learning to predict whether a telecom customer is like
 
 ---
 
+## Live Demo
+
+Streamlit App: https://flood-guard-ai.streamlit.app/
+
+GitHub Repository: https://customer-churn-intelligence-ml.streamlit.app/
+
+---
+
 ## Features
 
 - Customer churn prediction using Logistic Regression
@@ -165,11 +173,7 @@ The Power BI dashboard provides business insights through interactive visualizat
 
 ---
 
-## Live Demo
 
-Coming Soon
-
----
 
 ## Author
 
