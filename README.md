@@ -10,9 +10,9 @@ This project uses Machine Learning to predict whether a telecom customer is like
 
 ## Live Demo
 
-Streamlit App: https://flood-guard-ai.streamlit.app/
+Streamlit App: https://customer-churn-intelligence-ml.streamlit.app/
 
-GitHub Repository: https://customer-churn-intelligence-ml.streamlit.app/
+GitHub Repository: https://github.com/thanha26/Customer-Retention-Intelligence
 
 ---
 
